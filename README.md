@@ -1,4 +1,4 @@
-"045037_MLM Project-1.ipynb" Contains the Source Code, Analysis, and Outputs for Clustering and other Machine Learning Models.
+"045037_MLM Project_1.ipynb" Contains the Source Code, Analysis, and Outputs for Clustering and other Machine Learning Models.
 
 Dataset Link: https://www.kaggle.com/datasets/hunter0007/ecommerce-dataset-for-predictive-marketing-2023/code
 
